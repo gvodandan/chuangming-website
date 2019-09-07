@@ -1,0 +1,37 @@
+{
+  "qt": [
+    {"label": "打野", "name": "明凯", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "厂长", "name": "明凯", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "野区养猪", "name": "明凯", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "这局你们保AD", "name": "明凯", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "我保KDA", "name": "明凯", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" }
+  ],
+  "web": [
+    {"label": "上单", "name": "高地平", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话可以自己设置的一句话" },
+    {"label": "大哥", "name": "高地平", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "很稳", "name": "高地平", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "OMG上单", "name": "高地平", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "一手兰博", "name": "高地平", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" }
+  ],
+  "design": [
+    {"label": "中单", "name": "卢本伟", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "我和Faker55开", "name": "卢本伟", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "White", "name": "卢本伟", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "表面兄弟", "name": "卢本伟", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "电竞三丑", "name": "卢本伟", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" },
+    {"label": "test", "name": "test", "profile_picture": "", "grade": "2015", "text_content": "可以自己设置的一句话" }
+  ]
+}

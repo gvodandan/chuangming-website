@@ -1,0 +1,6 @@
+
+switchConfig()
+  width 38px
+  height 38px
+  cursor pointer
+  z-index 999
